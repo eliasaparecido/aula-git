@@ -1,1 +1,5 @@
-<?php phpinfo(); ?>
+//Teste GitHub...
+
+<?php
+    phpinfo();
+?>
